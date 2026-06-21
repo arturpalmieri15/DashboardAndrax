@@ -1,7 +1,7 @@
 // Service worker do Painel Andrax.
 // Sobe o numero do CACHE a cada novo build (ex: andrax-v2, andrax-v3...)
 // para forcar a atualizacao no aparelho dos usuarios.
-const CACHE = "andrax-v1";
+const CACHE = "andrax-v2";
 
 const ASSETS = [
   "./index.html",
